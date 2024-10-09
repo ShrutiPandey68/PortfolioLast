@@ -8,7 +8,7 @@ import { useFrame } from "@react-three/fiber";
 
 const Staff = React.memo(function Staff(props) {
   // Use React.memo for performance optimization
-  const { nodes, materials } = useGLTF("https://drive.google.com/file/d/19okyLXF01MdBZzjhEO5ZZ6qoocvKZfWr/view?usp=sharing");
+  const { nodes, materials } = useGLTF("https://cdn.glitch.global/6a75afee-2d7e-4c33-8239-4b115a7b34ff/staff-transformed.glb?v=1728467046747");
   const modelRef = useRef();
 
   useFrame(() => {
@@ -73,4 +73,4 @@ const Staff = React.memo(function Staff(props) {
 });
 
 export default Staff;
-useGLTF.preload("https://drive.google.com/file/d/19okyLXF01MdBZzjhEO5ZZ6qoocvKZfWr/view?usp=sharing");
+useGLTF.preload("https://cdn.glitch.global/6a75afee-2d7e-4c33-8239-4b115a7b34ff/staff-transformed.glb?v=1728467046747");

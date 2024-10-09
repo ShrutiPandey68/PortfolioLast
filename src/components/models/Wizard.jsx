@@ -8,7 +8,7 @@ import { useFrame } from "@react-three/fiber";
 
 const Wizard = React.memo(function Wizard(props) {
   // Use React.memo for performance optimization
-  const { nodes, materials } = useGLTF("https://drive.google.com/file/d/1zVa58-GFmdURQeUkwWvRYjLukK_EcpvH/view?usp=sharing");
+  const { nodes, materials } = useGLTF("https://cdn.glitch.global/6a75afee-2d7e-4c33-8239-4b115a7b34ff/wizard-transformed.glb?v=1728467013005");
   //const { nodes2, materials2 } = useGLTF("/models/wizard2-transformed.glb");
   const modelRef = useRef();
 
@@ -211,5 +211,5 @@ const Wizard = React.memo(function Wizard(props) {
 });
 
 export default Wizard;
-useGLTF.preload("https://drive.google.com/file/d/1zVa58-GFmdURQeUkwWvRYjLukK_EcpvH/view?usp=sharing");
+useGLTF.preload("https://cdn.glitch.global/6a75afee-2d7e-4c33-8239-4b115a7b34ff/wizard-transformed.glb?v=1728467013005");
 

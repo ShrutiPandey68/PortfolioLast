@@ -87,7 +87,7 @@ const Sound = () => {
       )}
 
       <audio ref={audioRef} loop>
-        <source src={"/audio/birds39-forest-20772.mp3"} type="audio/mpeg" />
+        <source src={"https://drive.google.com/file/d/1R_YiO2BeJCSkbx3QEWHAWebDOztCAsm6/view?usp=sharing"} type="audio/mpeg" />
         your browser does not support the audio element.
       </audio>
       <motion.button

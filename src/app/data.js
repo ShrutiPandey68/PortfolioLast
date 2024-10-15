@@ -16,7 +16,6 @@ export const projectsData = [
     date: "2023-03-01",
     demoLink: "https://github.com/ShrutiPandey68",
     technologies: ["React.js", "Node.js", "MongoDB", "RazorPay"],
-    demoLink: "https://showcase.trezi.com/",
   },
   {
     id: 3,

@@ -6,7 +6,7 @@ export const projectsData = [
     name: "Trezi Lens (Launcher)",
     description: "Cross-platform desktop application for 3D product management.",
     date: "2023-03-01",
-    demoLink: "https://github.com/trezi-lens",
+    demoLink: "https://github.com/ShrutiPandey68",
     technologies: ["Vue.js", "Electron.js", "Node.js", "Azure"],
   },
   {
@@ -14,7 +14,7 @@ export const projectsData = [
     name: "Trezi Showcase",
     description: "Showcase platform for interactive 3D products.",
     date: "2023-03-01",
-    demoLink: "https://github.com/trezi-showcase",
+    demoLink: "https://github.com/ShrutiPandey68",
     technologies: ["React.js", "Node.js", "MongoDB", "RazorPay"],
     demoLink: "https://showcase.trezi.com/",
   },
@@ -23,7 +23,7 @@ export const projectsData = [
     name: "Radiant RSD Portal",
       description: "Portal for managing client details and program information.",
       date: "2023-02-01",
-      demoLink: "https://github.com/radiant-rsd",
+      demoLink: "https://github.com/ShrutiPandey68",
       technologies: ["React.js", "Node.js", "Express", "MongoDB"],
   },
   {
@@ -31,7 +31,7 @@ export const projectsData = [
     name: "Reference Design Kit",
     description: "Developed components for a TV application, integrating multiple billboard channels and functionalities on the Tizen operating system.",
     date: "January 2023",
-    demoLink: "https://github.com/reference-design-kit",
+    demoLink: "https://github.com/ShrutiPandey68",
     technologies: ["Lightning JavaScript", "JavaScript"],
   },
   {
@@ -39,7 +39,7 @@ export const projectsData = [
     name: "Wireless Guardian",
     description: "Created a monitoring application for various devices, implementing features for data visualization and real-time updates.",
     date: "December 2022",
-    demoLink: "https://github.com/wireless-guardian",
+    demoLink: "https://github.com/ShrutiPandey68",
     technologies: ["React.js", "Node.js", "Express", "MongoDB"],
   },
   {
@@ -47,7 +47,7 @@ export const projectsData = [
     name: "Learning Management System",
     description: "A web-based learning management system for educational purposes, allowing admin, faculty, and student interactions.",
     date: "March 2022",
-    demoLink: "https://github.com/learning-management-system",
+    demoLink: "https://github.com/ShrutiPandey68",
     technologies: ["React.js", "Node.js", "MySQL", "Redux"],
   },
   {
@@ -55,7 +55,7 @@ export const projectsData = [
     name: "Turbocharger Jet Engine Project",
     description: "Designed and fabricated a turbojet engine model that operates without an additional power source, showcasing engineering capabilities.",
     date: "July 2020",
-    demoLink: "https://github.com/turbocharger-jet-engine",
+    demoLink: "https://github.com/ShrutiPandey68",
     technologies: ["Mechanical Engineering", "Fabrication"],
   },
   {
@@ -63,7 +63,7 @@ export const projectsData = [
     name: "K-12 Educational Platform",
     description: "Worked as a Business Development Executive, focusing on client acquisition and retention for an educational platform.",
     date: "March 2021",
-    demoLink: "https://github.com/k12-education-platform",
+    demoLink: "https://github.com/ShrutiPandey68",
     technologies: ["Sales", "Client Relations", "Business Development"],
   },
 ];
